@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/victorsteven/fullstack/api"
+	"github.com/ChemicalZ/moduleName/api"
 )
 
 func main() {

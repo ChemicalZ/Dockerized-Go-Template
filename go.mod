@@ -1,4 +1,4 @@
-module github.com/victorsteven/fullstack
+module github.com/ChemicalZ/moduleName
 
 go 1.12
 
